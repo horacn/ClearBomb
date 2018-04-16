@@ -1,0 +1,96 @@
+c:\users\accp7.0\documents\visual studio 2012\Projects\ClearBomb\ClearBomb\bin\Debug\ClearBomb.exe.config
+c:\users\accp7.0\documents\visual studio 2012\Projects\ClearBomb\ClearBomb\obj\Debug\ClearBomb.csprojResolveAssemblyReference.cache
+c:\users\accp7.0\documents\visual studio 2012\Projects\ClearBomb\ClearBomb\obj\Debug\ClearBomb.frmMain.resources
+c:\users\accp7.0\documents\visual studio 2012\Projects\ClearBomb\ClearBomb\obj\Debug\ClearBomb.Properties.Resources.resources
+c:\users\accp7.0\documents\visual studio 2012\Projects\ClearBomb\ClearBomb\obj\Debug\ClearBomb.UcCell.resources
+c:\users\accp7.0\documents\visual studio 2012\Projects\ClearBomb\ClearBomb\obj\Debug\ClearBomb.csproj.GenerateResource.Cache
+c:\users\accp7.0\documents\visual studio 2012\Projects\ClearBomb\ClearBomb\bin\Debug\ClearBomb.exe
+c:\users\accp7.0\documents\visual studio 2012\Projects\ClearBomb\ClearBomb\bin\Debug\ClearBomb.pdb
+c:\users\accp7.0\documents\visual studio 2012\Projects\ClearBomb\ClearBomb\obj\Debug\ClearBomb.exe
+c:\users\accp7.0\documents\visual studio 2012\Projects\ClearBomb\ClearBomb\obj\Debug\ClearBomb.pdb
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmMain.resources
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.Properties.Resources.resources
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.UcCell.resources
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.csproj.GenerateResource.Cache
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.FrmSwitch.resources
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmAbout.resources
+F:\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\ClearBomb.exe.config
+F:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.exe
+F:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.pdb
+F:\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\ClearBomb.exe
+F:\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\ClearBomb.pdb
+F:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmAbout.resources
+F:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmMain.resources
+F:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.FrmSwitch.resources
+F:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.Properties.Resources.resources
+F:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.UcCell.resources
+F:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.csproj.GenerateResource.Cache
+F:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\bin\Debug\ClearBomb.exe.config
+F:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.exe
+F:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.pdb
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.frmAbout.resources
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.frmGameOver.resources
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.frmMain.resources
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.frmNewGame.resources
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.FrmSwitch.resources
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.Properties.Resources.resources
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.UcCell.resources
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.csproj.GenerateResource.Cache
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\bin\Debug\Music\开始游戏.wav
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\bin\Debug\Music\爆炸.WAV
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\bin\Debug\Interop.WMPLib.dll
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\bin\Debug\AxInterop.WMPLib.dll
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.csprojResolveAssemblyReference.cache
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\Interop.WMPLib.dll
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\AxInterop.WMPLib.dll
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.csproj.ResolveComReference.cache
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.frmWin.resources
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\bin\Debug\扫雷.exe.config
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\bin\Debug\扫雷.exe
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\bin\Debug\扫雷.pdb
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\扫雷.exe
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\扫雷.pdb
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\obj\Debug\ClearBomb.frmAboutWe.resources
+H:\S2\C#-OOP\C#OOP 项目练习\扫雷\ClearBomb\bin\Debug\Music\打开空格.wav
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\扫雷.exe.config
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\Interop.WMPLib.dll
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\AxInterop.WMPLib.dll
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.csproj.ResolveComReference.cache
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\扫雷.exe
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\扫雷.pdb
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\Music\开始游戏.wav
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\Music\打开空格.wav
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\Music\爆炸.WAV
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\扫雷.exe
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\扫雷.pdb
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\Interop.WMPLib.dll
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\AxInterop.WMPLib.dll
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.csprojResolveAssemblyReference.cache
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmAbout.resources
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmAboutWe.resources
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmGameOver.resources
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmMain.resources
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmNewGame.resources
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.FrmSwitch.resources
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmWin.resources
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.Properties.Resources.resources
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.UcCell.resources
+F:\ACCP7.0\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.csproj.GenerateResource.Cache
+H:\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\扫雷.exe.config
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\Interop.WMPLib.dll
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\AxInterop.WMPLib.dll
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.csproj.ResolveComReference.cache
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\扫雷.exe
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\扫雷.pdb
+H:\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\Music\开始游戏.wav
+H:\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\Music\打开空格.wav
+H:\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\Music\爆炸.WAV
+H:\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\扫雷.exe
+H:\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\扫雷.pdb
+H:\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\Interop.WMPLib.dll
+H:\S2\C#-OOP\扫雷\ClearBomb\bin\Debug\AxInterop.WMPLib.dll
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.csprojResolveAssemblyReference.cache
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmAboutWe.resources
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmGameOver.resources
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmNewGame.resources
+H:\S2\C#-OOP\扫雷\ClearBomb\obj\Debug\ClearBomb.frmWin.resources

@@ -1,0 +1,1 @@
+H:\S2\C#-OOP\扫雷\ClearBomb\bin\Release\ClearBomb.exe.config
